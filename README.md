@@ -5,6 +5,16 @@ A simple NodeJS server for mini sites
 
 Installing:
 
+Installing NodeJS:
+
+
+```
+Debian:
+sudo apt install nodejs
+Arch:
+sudo pacman -S nodejs
+```
+
 
 
 Cloning the repo:
