@@ -8,13 +8,6 @@ Installing:
 Installing NodeJS:
 
 
-```
-Debian:
-sudo apt install nodejs
-Arch:
-sudo pacman -S nodejs
-```
-
 
 
 Cloning the repo:
@@ -27,6 +20,7 @@ Installing the libraries:
 ```
 npm i ejs
 npm i express
+npm i prompt-sync
 ```
 
 Running:
