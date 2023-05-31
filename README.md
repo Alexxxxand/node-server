@@ -1,9 +1,9 @@
 # Node Server
 
-A simple NodeJS
+A simple NodeJS server for mini sites
 
 
-Running:
+Installing:
 
 
 
