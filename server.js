@@ -16,9 +16,9 @@ app.get('/', (req, res) => {
 
 //starting site (in PORT you can choose the port)
 //const PORT = "3000";
-let PORT = prompt("Port: ")
+let PORT = prompt("Port: ");
 
 
 app.listen(PORT, () => {
-    console.log ('Started')
+    console.log ('Started on port:', PORT)
 });
