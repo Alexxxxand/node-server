@@ -5,15 +5,7 @@ A simple NodeJS server for mini sites
 
 Installing:
 
-Installing NodeJS:
 
-
-```
-Debian:
-sudo apt install nodejs
-Arch:
-sudo pacman -S nodejs
-```
 
 
 
@@ -27,6 +19,7 @@ Installing the libraries:
 ```
 npm i ejs
 npm i express
+npm i prompt-sync
 ```
 
 Running:
