@@ -3,11 +3,6 @@
 A simple NodeJS server for mini sites
 
 
-Installing:
-
-
-
-
 
 Cloning the repo:
 ```
