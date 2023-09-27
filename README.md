@@ -1,4 +1,7 @@
-<img src="https://github.com/Alexxxxand/mediafiles/blob/main/IMG_20230927_101110_128.jpg" width="500" height="500">
+<p align="center">
+  <img src="https://github.com/Alexxxxand/mediafiles/blob/main/IMG_20230927_101110_128.jpg" width="500" height="500">
+</p>
+
 
 # Node Server
 
