@@ -5,7 +5,7 @@
 
 # Node Server
 
-  A simple NodeJS server for mini sites
+A simple NodeJS server for mini sites
 
 
 
